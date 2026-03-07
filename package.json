@@ -1,6 +1,6 @@
 {
   "name": "noop-enterprise",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "noopxrtxthtkvjhvtyvghggfgfhgfhfghfhgfhgfgfujuftj",
   "keywords": [
     "noop",
@@ -41,7 +41,6 @@
     "immediate-error": "^2.0.0",
     "integer-value-positive-zero": "^1.0.2",
     "is-equal": "^1.7.0",
-    "javascript-interpreter": "^1.0.0",
     "json-stringify-safe": "^5.0.1",
     "lolite.__private.date": "^1.1.15",
     "no_op": "^1.0.0",
